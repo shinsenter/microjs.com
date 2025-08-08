@@ -2398,9 +2398,9 @@ module.exports = [
     source: "https://raw.githubusercontent.com/wessman/defer.js/master/src/defer.js"
   },
   {
-    name: "defer.js",
-    tags: ["lazy", "loader", "lazyloader", "lazy-load", "async", "defer"],
-    description: "A super small, super efficient library that helps you lazy load (almost) anything. Core Web Vitals friendly.",
+    name: "@shinsenter/defer.js",
+    tags: ["loader", "lazyloader", "lazyload", "dom", "web vitals"],
+    description: "A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.",
     url: "https://github.com/shinsenter/defer.js",
     source: "https://raw.githubusercontent.com/shinsenter/defer.js/master/src/defer.js"
   },
